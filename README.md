@@ -18,6 +18,6 @@ CUAI 8기 하계 컨퍼런스 저장소입니다
 
 
 ### 시상
-* 대상 1개 팀
-* 최우수상 1개 팀
-* 우수상 1개 팀
+* 대상 1개 팀 - `MEDIATOR: Enhancing Medical Diagnosis via Gated Distillation and Decoupled Learning`
+* 최우수상 1개 팀 - `BEV-ConvFusion : A Synergistic 2D Fusion Framework for Real-Time Autonomous Perception`
+* 우수상 1개 팀 - `엣지 AI 환경을 위한 YOLO 기반 PM 탐지 경량화 모델 연구`

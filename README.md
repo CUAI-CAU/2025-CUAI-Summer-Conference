@@ -18,6 +18,8 @@ CUAI 8기 하계 컨퍼런스 저장소입니다
 
 
 ### 시상
-* 대상 1개 팀 - `MEDIATOR: Enhancing Medical Diagnosis via Gated Distillation and Decoupled Learning`
-* 최우수상 1개 팀 - `BEV-ConvFusion : A Synergistic 2D Fusion Framework for Real-Time Autonomous Perception`
-* 우수상 1개 팀 - `엣지 AI 환경을 위한 YOLO 기반 PM 탐지 경량화 모델 연구`
+| 구분     | 논문명                                                                 | 영상 링크 |
+|----------|--------------------------------------------------------------------------------|------------|
+| **대상** | MEDIATOR: Enhancing Medical Diagnosis via Gated Distillation and Decoupled Learning |  |
+| **최우수상** | BEV-ConvFusion : A Synergistic 2D Fusion Framework for Real-Time Autonomous Perception | [영상](https://youtu.be/Dd0e6RmimXs) |
+| **우수상** | 엣지 AI 환경을 위한 YOLO 기반 PM 탐지 경량화 모델 연구 | [영상](https://youtu.be/1GPaD5HU1SQ) |
